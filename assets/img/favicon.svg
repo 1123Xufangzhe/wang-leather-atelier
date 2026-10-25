@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#2a180f"/>
+  <rect x="6.5" y="6.5" width="51" height="51" fill="none" stroke="#b4915c" stroke-width="1.2"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Songti SC, SimSun, serif" font-size="34" fill="#efe2c8">王</text>
+</svg>
